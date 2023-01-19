@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mjuda Zacharia Molefe</h1>
-<h3 align="center">A passionate developer from South Africa</h3>
+<h3 align="center">A passionate QA Automation Engineer from South Africa</h3>
 
 - 🌱 I’m currently learning **Springboot**
 
